@@ -3,5 +3,4 @@ My Helm Repo
 
 
 helm package nginx-svc
-helm repo index helm-repo --url https://skckadiyala.github.io/helm-repo/
-
+helm repo index . --url https://skckadiyala.github.io/helm-repo/

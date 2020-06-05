@@ -3,7 +3,7 @@ entries:
   nginx-svc:
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2020-06-04T20:04:18.356761-07:00"
+    created: "2020-06-04T20:29:19.353361-07:00"
     description: A Helm chart for Kubernetes
     digest: dfe448d692cdad8cb771e1951aa23331043705f4a6859afa03b376b5c3fff09f
     name: nginx-svc
@@ -13,7 +13,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-06-04T20:04:18.353944-07:00"
+    created: "2020-06-04T20:29:19.351791-07:00"
     description: A Helm chart for Kubernetes
     digest: 256737af2d8f3260e4441c0e03b21b1625f6064c5e09ab09a3d82c490d1b3294
     name: nginx-svc
@@ -21,4 +21,14 @@ entries:
     urls:
     - https://skckadiyala.github.io/helm-repo/nginx-svc-0.1.0.tgz
     version: 0.1.0
-generated: "2020-06-04T20:04:18.352592-07:00"
+  perftest-frmk:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-06-04T20:29:19.353913-07:00"
+    description: A Helm chart for Kubernetes
+    digest: b9664c122cb462a67652fcdf9a1c34075ae86366d7f94b29d519440e01aa144b
+    name: perftest-frmk
+    urls:
+    - https://skckadiyala.github.io/helm-repo/perftest-frmk-0.1.1.tgz
+    version: 0.1.1
+generated: "2020-06-04T20:29:19.343326-07:00"
