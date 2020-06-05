@@ -1,0 +1,10 @@
+nginx-svc/.helmignore
+nginx-svc/Chart.yaml
+nginx-svc/values.yaml
+nginx-svc/templates/_helpers.tpl
+nginx-svc/templates/NOTES.txt
+nginx-svc/templates/regsecret.yaml
+nginx-svc/templates/serviceaccount.yaml
+nginx-svc/templates/tests/deployment.yaml
+nginx-svc/templates/tests/ingress.yaml
+nginx-svc/templates/tests/service.yaml
