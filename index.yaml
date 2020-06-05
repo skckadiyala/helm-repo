@@ -3,12 +3,22 @@ entries:
   nginx-svc:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-06-04T17:37:22.271231-07:00"
+    created: "2020-06-04T19:51:51.105622-07:00"
     description: A Helm chart for Kubernetes
-    digest: 9963c78d0204b0ce336da854e0573ae1c505ebe81c47b00763db8792c61b7921
+    digest: 6c82ed789ae5977d32c13372f1fb8fc055e59a91c5f60a765b0a3eadd8d0a7e0
+    name: nginx-svc
+    type: application
+    urls:
+    - https://skckadiyala.github.io/helm-repo/nginx-svc-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-06-04T19:51:51.104073-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 256737af2d8f3260e4441c0e03b21b1625f6064c5e09ab09a3d82c490d1b3294
     name: nginx-svc
     type: application
     urls:
     - https://skckadiyala.github.io/helm-repo/nginx-svc-0.1.0.tgz
     version: 0.1.0
-generated: "2020-06-04T17:37:22.267111-07:00"
+generated: "2020-06-04T19:51:51.103249-07:00"

@@ -8,3 +8,9 @@ nginx-svc/templates/serviceaccount.yaml
 nginx-svc/templates/tests/deployment.yaml
 nginx-svc/templates/tests/ingress.yaml
 nginx-svc/templates/tests/service.yaml
+nginx-svc/templates/nginx-svc/deployment.yaml
+nginx-svc/templates/nginx-svc/ingress.yaml
+nginx-svc/templates/nginx-svc/service.yaml
+nginx-svc/templates/nginx-ssl-svc/deployment.yaml
+nginx-svc/templates/nginx-ssl-svc/secrets.yaml
+nginx-svc/templates/nginx-ssl-svc/service.yaml
